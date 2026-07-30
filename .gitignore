@@ -1,0 +1,8 @@
+classes_gen
+source_gen
+source_gen.caches
+result_gen
+test_gen
+*.class
+*.jar
+.mps-caches/
