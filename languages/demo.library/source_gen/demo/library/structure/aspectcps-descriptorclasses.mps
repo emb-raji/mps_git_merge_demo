@@ -1681,7 +1681,7 @@
                 <property role="11gdj1" value="8f0506019d4c5f64L" />
               </node>
               <node concept="Xl_RD" id="7U" role="37wK5m">
-                <property role="Xl_RC" value="tech.cariad.mps_training_2026.persons" />
+                <property role="Xl_RC" value="demo.persons" />
               </node>
             </node>
           </node>

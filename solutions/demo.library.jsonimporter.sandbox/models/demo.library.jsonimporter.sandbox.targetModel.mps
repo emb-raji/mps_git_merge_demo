@@ -16,7 +16,9 @@
       <concept id="1364673019460202482" name="demo.library.structure.Book" flags="ng" index="1Hz6kj">
         <property id="4856742600396457678" name="publicationYear" index="3PhtHB" />
       </concept>
-      <concept id="1364673019460202484" name="demo.library.structure.Magazine" flags="ng" index="1Hz6kl" />
+      <concept id="1364673019460202484" name="demo.library.structure.Magazine" flags="ng" index="1Hz6kl">
+        <property id="4856742600396457676" name="periodicity" index="3PhtH_" />
+      </concept>
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
       <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ngI" index="TrEIO">
@@ -38,9 +40,18 @@
     </node>
     <node concept="1Hz6kl" id="1xYb$Gq3KKU" role="1Hz6kh">
       <property role="TrG5h" value="National Geographic" />
+      <property role="1YzVXS" value="1234" />
+      <property role="3PhtH_" value="4dABqAQ8Or7/BI_WEEKLY" />
     </node>
     <node concept="1Hz6kl" id="1xYb$Gq3KKV" role="1Hz6kh">
       <property role="TrG5h" value="Time" />
+      <property role="1YzVXS" value="1234" />
+      <property role="3PhtH_" value="4dABqAQ8Or8/MONTHLY" />
+    </node>
+    <node concept="1Hz6kj" id="15DRg6bfbpS" role="1Hz6kh">
+      <property role="TrG5h" value="new_book_branch_1" />
+      <property role="1YzVXS" value="9999" />
+      <property role="3PhtHB" value="1898" />
     </node>
   </node>
 </model>
