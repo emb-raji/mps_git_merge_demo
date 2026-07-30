@@ -53,6 +53,11 @@
       <property role="1YzVXS" value="9999" />
       <property role="3PhtHB" value="1898" />
     </node>
+    <node concept="1Hz6kj" id="15DRg6bh48e" role="1Hz6kh">
+      <property role="TrG5h" value="new_book_branch_2" />
+      <property role="1YzVXS" value="8888" />
+      <property role="3PhtHB" value="1988" />
+    </node>
   </node>
 </model>
 
