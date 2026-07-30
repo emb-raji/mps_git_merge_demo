@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1144226303539:jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/6329021646629104954:jetbrains.mps.baseLanguage.structure.SingleLineComment" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164991038168:jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/5351203823916750322:jetbrains.mps.baseLanguage.structure.TryUniversalStatement" />
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="14,0,32,0" name="demo.library.jsonimporter.behavior.BehaviorAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:b13c40a1-2fb6-4ab7-a3f3-8b2809b8da43(demo.library.jsonimporter.behavior)/1764899004068115452">
+    <file name="LibraryJsonImporter__BehaviorDescriptor.java">
+      <node id="1764899004068115452" at="32,0,33,0" concept="9" trace="CONCEPT" />
+      <node id="1764899004068115452" at="34,0,35,0" concept="9" trace="doImport_id1xYb$GpUVgf" />
+      <node id="1764899004068115452" at="35,0,36,0" concept="9" trace="clearModel_id1xYb$GpVxkV" />
+      <node id="1764899004068115452" at="37,0,38,0" concept="9" trace="BH_METHODS" />
+      <node id="1764899004068162092" at="42,115,43,67" concept="5" />
+      <node id="1764899004068164467" at="43,67,44,70" concept="5" />
+      <node id="1764899004068173235" at="44,70,45,0" concept="8" />
+      <node id="1764899004068234921" at="46,53,47,88" concept="1" />
+      <node id="1764899004068256283" at="47,88,48,231" concept="1" />
+      <node id="1764899004068164184" at="49,7,50,89" concept="5" />
+      <node id="1764899004068261729" at="50,89,51,0" concept="8" />
+      <node id="1764899004068233947" at="51,0,52,124" concept="1" />
+      <node id="1764899004068272364" at="54,117,55,70" concept="5" />
+      <node id="1764899004068273201" at="55,70,56,278" concept="1" />
+      <node id="1764899004068302636" at="56,278,57,174" concept="1" />
+      <node id="1764899004068115452" at="64,114,65,21" concept="1" />
+      <node id="1764899004068115452" at="69,114,70,49" concept="5" />
+      <node id="1764899004068115452" at="71,26,72,56" concept="12" />
+      <node id="1764899004068115452" at="75,13,76,66" concept="1" />
+      <node id="1764899004068115452" at="76,66,77,20" concept="6" />
+      <node id="1764899004068115452" at="78,13,79,68" concept="1" />
+      <node id="1764899004068115452" at="79,68,80,20" concept="6" />
+      <node id="1764899004068115452" at="81,14,82,58" concept="12" />
+      <node id="1764899004068115452" at="87,128,88,49" concept="5" />
+      <node id="1764899004068115452" at="89,26,90,56" concept="12" />
+      <node id="1764899004068115452" at="93,14,94,58" concept="12" />
+      <node id="1764899004068115452" at="100,48,101,22" concept="6" />
+      <node id="1764899004068115452" at="106,40,107,19" concept="6" />
+      <node id="1764899004068115452" at="111,0,112,0" concept="9" trace="filePath$gInU" />
+      <node id="1764899004068115452" at="115,0,116,0" concept="9" trace="targetModel$gNyg" />
+      <node id="1764899004068115452" at="116,0,117,0" concept="9" trace="modelRef$l8tE" />
+      <node id="1764899004068115452" at="39,0,41,0" concept="10" trace="___init___#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="1764899004068115452" at="60,0,62,0" concept="0" trace="LibraryJsonImporter__BehaviorDescriptor#()V" />
+      <node id="1764899004068115452" at="70,49,73,5" concept="3" />
+      <node id="1764899004068115452" at="88,49,91,5" concept="3" />
+      <node id="1764899004068233494" at="45,0,49,7" concept="1" />
+      <node id="1764899004068115452" at="63,0,67,0" concept="4" trace="initNode#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SConstructor;[Ljava/lang/Object;)V" />
+      <node id="1764899004068115452" at="91,5,95,5" concept="11" />
+      <node id="1764899004068115452" at="54,0,59,0" concept="10" trace="clearModel_id1xYb$GpVxkV#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/module/SRepository;)V" />
+      <node id="1764899004068115452" at="98,0,103,0" concept="4" trace="getDeclaredMethods#()Ljava/util/List;" />
+      <node id="1764899004068115452" at="104,0,109,0" concept="4" trace="getConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="1764899004068115452" at="73,5,83,5" concept="11" />
+      <node id="1764899004068115452" at="86,0,97,0" concept="4" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="1764899004068115452" at="42,0,54,0" concept="10" trace="doImport_id1xYb$GpUVgf#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/module/SRepository;)V" />
+      <node id="1764899004068115452" at="68,0,85,0" concept="4" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <scope id="1764899004068115452" at="39,63,39,63" />
+      <scope id="1764899004068115452" at="60,57,60,57" />
+      <scope id="1764899004068115452" at="64,114,65,21" />
+      <scope id="1764899004068115452" at="71,26,72,56" />
+      <scope id="1764899004068115452" at="81,14,82,58" />
+      <scope id="1764899004068115452" at="89,26,90,56" />
+      <scope id="1764899004068115452" at="93,14,94,58" />
+      <scope id="1764899004068115452" at="100,48,101,22" />
+      <scope id="1764899004068115452" at="106,40,107,19" />
+      <scope id="1764899004068115452" at="39,0,41,0">
+        <var name="__thisNode__" id="1764899004068115452" />
+      </scope>
+      <scope id="1764899004068233498" at="46,53,48,231" />
+      <scope id="1764899004068115452" at="60,0,62,0" />
+      <scope id="1764899004068115452" at="75,13,77,20" />
+      <scope id="1764899004068115452" at="78,13,80,20" />
+      <scope id="1764899004068271422" at="54,117,57,174">
+        <var name="targetModel" id="1764899004068272367" />
+      </scope>
+      <scope id="1764899004068115452" at="63,0,67,0">
+        <var name="constructor" id="1764899004068115452" />
+        <var name="node" id="1764899004068115452" />
+        <var name="parameters" id="1764899004068115452" />
+      </scope>
+      <scope id="1764899004068115452" at="54,0,59,0">
+        <var name="__thisNode__" id="1764899004068115452" />
+        <var name="repository" id="1764899004068272324" />
+      </scope>
+      <scope id="1764899004068115452" at="98,0,103,0" />
+      <scope id="1764899004068115452" at="104,0,109,0" />
+      <scope id="1764899004068115452" at="87,128,95,5">
+        <var name="methodIndex" id="1764899004068115452" />
+      </scope>
+      <scope id="1764899004068115474" at="42,115,52,124">
+        <var name="filePath" id="1764899004068162095" />
+        <var name="importedLibContainer" id="1764899004068164185" />
+        <var name="targetModel" id="1764899004068164470" />
+      </scope>
+      <scope id="1764899004068115452" at="86,0,97,0">
+        <var name="concept" id="1764899004068115452" />
+        <var name="method" id="1764899004068115452" />
+        <var name="parameters" id="1764899004068115452" />
+      </scope>
+      <scope id="1764899004068115452" at="42,0,54,0">
+        <var name="__thisNode__" id="1764899004068115452" />
+        <var name="repository" id="1764899004068173356" />
+      </scope>
+      <scope id="1764899004068115452" at="69,114,83,5">
+        <var name="methodIndex" id="1764899004068115452" />
+      </scope>
+      <scope id="1764899004068115452" at="68,0,85,0">
+        <var name="method" id="1764899004068115452" />
+        <var name="node" id="1764899004068115452" />
+        <var name="parameters" id="1764899004068115452" />
+      </scope>
+      <unit id="1764899004068115452" at="110,0,113,0" name="demo.library.jsonimporter.behavior.LibraryJsonImporter__BehaviorDescriptor$PROPS" />
+      <unit id="1764899004068115452" at="114,0,118,0" name="demo.library.jsonimporter.behavior.LibraryJsonImporter__BehaviorDescriptor$LINKS" />
+      <unit id="1764899004068115452" at="31,0,119,0" name="demo.library.jsonimporter.behavior.LibraryJsonImporter__BehaviorDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:b13c40a1-2fb6-4ab7-a3f3-8b2809b8da43(demo.library.jsonimporter.behavior)/1764899004068136827">
+    <file name="LibraryJSONImporter.java">
+      <node id="1764899004068351755" at="24,54,25,35" concept="7" />
+      <node id="1764899004069033676" at="26,9,27,203" concept="5" />
+      <node id="1764899004068351654" at="27,203,28,72" concept="5" />
+      <node id="1764899004068351764" at="28,72,29,19" concept="7" />
+      <node id="1764899004068351661" at="29,19,30,46" concept="5" />
+      <node id="1764899004068351769" at="30,46,31,22" concept="7" />
+      <node id="1764899004068460658" at="31,22,32,70" concept="5" />
+      <node id="1764899004068351666" at="32,70,33,60" concept="5" />
+      <node id="1764899004069068357" at="33,60,34,83" concept="1" />
+      <node id="1764899004068351774" at="34,83,35,27" concept="7" />
+      <node id="1764899004068687544" at="36,56,37,74" concept="5" />
+      <node id="1764899004068707205" at="37,74,38,50" concept="5" />
+      <node id="1764899004069399911" at="38,50,39,208" concept="1" />
+      <node id="1764899004068351780" at="40,7,41,31" concept="7" />
+      <node id="1764899004068777595" at="42,64,43,79" concept="5" />
+      <node id="1764899004068777601" at="43,79,44,50" concept="5" />
+      <node id="1764899004069467504" at="44,50,45,186" concept="5" />
+      <node id="1764899004069467510" at="45,186,46,68" concept="1" />
+      <node id="1764899004069467516" at="46,68,47,120" concept="1" />
+      <node id="1764899004068351066" at="48,7,49,0" concept="8" />
+      <node id="1764899004068905730" at="49,0,50,32" concept="6" />
+      <node id="1764899004068423991" at="50,32,51,0" concept="8" />
+      <node id="1764899004068403991" at="52,29,53,53" concept="12" />
+      <node id="1764899004070112567" at="56,83,57,64" concept="5" />
+      <node id="1764899004070112567" at="57,64,58,40" concept="1" />
+      <node id="1764899004070112567" at="58,40,59,40" concept="1" />
+      <node id="1764899004070112567" at="59,40,60,58" concept="1" />
+      <node id="1764899004070112567" at="60,58,61,26" concept="6" />
+      <node id="1764899004068487351" at="63,68,64,47" concept="6" />
+      <node id="1764899004068687547" at="66,70,67,47" concept="6" />
+      <node id="1764899004068777598" at="69,71,70,47" concept="6" />
+      <node id="1764899004068136827" at="74,0,75,0" concept="9" trace="name$MnvL" />
+      <node id="1764899004068136827" at="75,0,76,0" concept="9" trace="isbn$GeKi" />
+      <node id="1764899004068136827" at="76,0,77,0" concept="9" trace="publicationYear$GiMG" />
+      <node id="1764899004068136827" at="80,0,81,0" concept="9" trace="entities$44zk" />
+      <node id="1764899004068136827" at="84,0,85,0" concept="9" trace="Book$A3" />
+      <node id="1764899004068487351" at="63,0,66,0" concept="10" trace="as_cc4e1m_a0a5a1a1#(Ljava/lang/Object;Ljava/lang/Class;)null" />
+      <node id="1764899004068687547" at="66,0,69,0" concept="10" trace="as_cc4e1m_a0a0a9a1a1#(Ljava/lang/Object;Ljava/lang/Class;)null" />
+      <node id="1764899004068777598" at="69,0,72,0" concept="10" trace="as_cc4e1m_a0a0a11a1a1#(Ljava/lang/Object;Ljava/lang/Class;)null" />
+      <node id="1764899004068631455" at="35,27,40,7" concept="2" />
+      <node id="1764899004068777593" at="41,31,48,7" concept="2" />
+      <node id="1764899004070112567" at="56,0,63,0" concept="10" trace="createBook_cc4e1m_a0a2a9a1a1#(Ljava/lang/String;Ljava/lang/String;I)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="1764899004068399004" at="25,35,54,5" concept="13" />
+      <node id="1764899004068136911" at="24,0,56,0" concept="10" trace="performImport#(Ljava/lang/String;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <scope id="1764899004068399008" at="52,29,53,53" />
+      <scope id="1764899004068487351" at="63,68,64,47" />
+      <scope id="1764899004068687547" at="66,70,67,47" />
+      <scope id="1764899004068777598" at="69,71,70,47" />
+      <scope id="1764899004068399007" at="52,5,54,5">
+        <var name="e" id="1764899004068399009" />
+      </scope>
+      <scope id="1764899004068631457" at="36,56,39,208">
+        <var name="bookObj" id="1764899004068687545" />
+        <var name="title" id="1764899004068707206" />
+      </scope>
+      <scope id="1764899004068487351" at="63,0,66,0">
+        <var name="o" id="1764899004068487351" />
+        <var name="type" id="1764899004068487351" />
+      </scope>
+      <scope id="1764899004068687547" at="66,0,69,0">
+        <var name="o" id="1764899004068687547" />
+        <var name="type" id="1764899004068687547" />
+      </scope>
+      <scope id="1764899004068777598" at="69,0,72,0">
+        <var name="o" id="1764899004068777598" />
+        <var name="type" id="1764899004068777598" />
+      </scope>
+      <scope id="1764899004068631455" at="35,27,40,7">
+        <var name="book" id="1764899004068631458" />
+      </scope>
+      <scope id="1764899004068777594" at="42,64,47,120">
+        <var name="magzObj" id="1764899004068777596" />
+        <var name="newMagz" id="1764899004069467505" />
+        <var name="title" id="1764899004068777602" />
+      </scope>
+      <scope id="1764899004070112567" at="56,83,61,26">
+        <var name="n0" id="1764899004070112567" />
+      </scope>
+      <scope id="1764899004068777593" at="41,31,48,7">
+        <var name="magazine" id="1764899004068777618" />
+      </scope>
+      <scope id="1764899004070112567" at="56,0,63,0">
+        <var name="p0" id="1764899004070112567" />
+        <var name="p1" id="1764899004070112567" />
+        <var name="p2" id="1764899004070112567" />
+      </scope>
+      <scope id="1764899004068399005" at="26,9,51,0">
+        <var name="imported_container" id="1764899004069033679" />
+        <var name="json" id="1764899004068351653" />
+        <var name="libraryName" id="1764899004068351665" />
+        <var name="root" id="1764899004068351660" />
+        <var name="rootObj" id="1764899004068460659" />
+      </scope>
+      <scope id="1764899004068136915" at="24,54,54,5" />
+      <scope id="1764899004068136911" at="24,0,56,0">
+        <var name="fileName" id="1764899004068137003" />
+      </scope>
+      <unit id="1764899004068136827" at="79,0,82,0" name="demo.library.jsonimporter.behavior.LibraryJSONImporter$LINKS" />
+      <unit id="1764899004068136827" at="83,0,86,0" name="demo.library.jsonimporter.behavior.LibraryJSONImporter$CONCEPTS" />
+      <unit id="1764899004068136827" at="73,0,78,0" name="demo.library.jsonimporter.behavior.LibraryJSONImporter$PROPS" />
+      <unit id="1764899004068136827" at="22,0,87,0" name="demo.library.jsonimporter.behavior.LibraryJSONImporter" />
+    </file>
+  </root>
+</debug-info>
+

@@ -1,0 +1,36 @@
+{
+  "libraryName": "Central City Library",
+  "address": "123 Main St, Central City",
+  "books": [
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "isbn": "9780061120084",
+      "publishedYear": 1960,
+      "genre": "Fiction"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "isbn": "9780451524935",
+      "publishedYear": 1949,
+      "genre": "Dystopian"
+    }
+  ],
+  "magazines": [
+    {
+      "title": "National Geographic",
+      "issue": "March 2024",
+      "issn": "0027-9358",
+      "publishedMonth": "March",
+      "publishedYear": 2024
+    },
+    {
+      "title": "Time",
+      "issue": "April 2024",
+      "issn": "0040-781X",
+      "publishedMonth": "April",
+      "publishedYear": 2024
+    }
+  ]
+}

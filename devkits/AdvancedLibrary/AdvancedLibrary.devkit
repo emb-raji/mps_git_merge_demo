@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dev-kit name="AdvancedLibrary" uuid="34c33e4a-f68d-41a4-bbc7-8078891e8d85">
+  <exported-language name="703a8ab6-bbcd-471b-8da9-6d95b2f7038f(demo.library.electronic)" />
+  <exported-language name="bc8c496c-cb36-4200-9074-75e323a4ac3d(demo.library.electronic.streaming)" />
+  <extendedDevKits>
+    <extendedDevKit>c745f80a-4967-4984-b48a-cddbac3576d6(ClassicalLibrary)</extendedDevKit>
+  </extendedDevKits>
+</dev-kit>
+

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="IntentionsDescriptor.java">
+      <unit at="18,0,56,0" name="demo.library.intentions.IntentionsDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:d9a6b5e4-4a64-4a1e-a938-4a84d1c04238(demo.library.intentions)/6836401089461077320">
+    <file name="IntentionsDescriptor.java">
+      <node id="6836401089461077320" at="37,47,38,50" concept="2" />
+      <node id="6836401089461077320" at="50,52,51,36" concept="2" />
+    </file>
+    <file name="SortLib_Intention.java">
+      <node id="6836401089461077320" at="28,0,29,0" concept="3" trace="myCachedExecutable" />
+      <node id="6836401089461077320" at="30,30,31,138" concept="11" />
+      <node id="6836401089461077320" at="35,35,36,21" concept="7" />
+      <node id="6836401089461077320" at="40,35,41,17" concept="7" />
+      <node id="6836401089461077320" at="45,37,46,105" concept="2" />
+      <node id="6836401089461077320" at="47,5,48,30" concept="7" />
+      <node id="6836401089461083216" at="55,87,56,43" concept="7" />
+      <node id="6836401089461142696" at="62,83,63,82" concept="7" />
+      <node id="6836401089461188030" at="64,262,65,188" concept="7" />
+      <node id="6836401089461208225" at="66,16,67,20" concept="7" />
+      <node id="2109586941539519951" at="69,24,70,0" concept="8" />
+      <node id="6836401089461220216" at="70,0,71,92" concept="2" />
+      <node id="6836401089461245113" at="71,92,72,131" concept="2" />
+      <node id="6836401089461077320" at="77,55,78,21" concept="7" />
+      <node id="6836401089461077320" at="79,7,80,18" concept="7" />
+      <node id="6836401089461084363" at="83,93,84,104" concept="7" />
+      <node id="6836401089461077320" at="89,48,90,36" concept="7" />
+      <node id="6836401089461139948" at="94,55,95,43" concept="7" />
+      <node id="6836401089461077320" at="99,0,100,0" concept="9" trace="entities$44zk" />
+      <node id="6836401089461077320" at="100,0,101,0" concept="9" trace="entityToStream$IylX" />
+      <node id="6836401089461077320" at="104,0,105,0" concept="9" trace="name$MnvL" />
+      <node id="6836401089461077320" at="108,0,109,0" concept="9" trace="StreamableEntity$4k" />
+      <node id="6836401089461077320" at="51,0,53,0" concept="1" trace="IntentionImplementation#()V" />
+      <node id="6836401089461207492" at="66,14,68,9" concept="0" />
+      <node id="6836401089461077320" at="30,0,33,0" concept="1" trace="SortLib_Intention#()V" />
+      <node id="6836401089461077320" at="44,99,47,5" concept="4" />
+      <node id="6836401089461077320" at="76,86,79,7" concept="4" />
+      <node id="6836401089461077320" at="83,0,86,0" concept="5" trace="isApplicableToNode#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/openapi/editor/EditorContext;)Z" />
+      <node id="6836401089461139948" at="94,0,97,0" concept="10" trace="isNotEmptyString#(Ljava/lang/String;)Z" />
+      <node id="6836401089461077320" at="34,0,38,0" concept="5" trace="getPresentation#()Ljava/lang/String;" />
+      <node id="6836401089461077320" at="39,0,43,0" concept="5" trace="isSurroundWith#()Z" />
+      <node id="6836401089461077320" at="54,0,58,0" concept="5" trace="getDescription#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/openapi/editor/EditorContext;)Ljava/lang/String;" />
+      <node id="6836401089461077320" at="88,0,92,0" concept="5" trace="getDescriptor#()Ljetbrains/mps/openapi/intentions/IntentionDescriptor;" />
+      <node id="6836401089461077320" at="44,0,50,0" concept="5" trace="instances#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/openapi/editor/EditorContext;)Ljava/util/Collection;" />
+      <node id="6836401089461125149" at="61,123,68,9" concept="4" />
+      <node id="6836401089461077320" at="75,0,82,0" concept="5" trace="isApplicable#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/openapi/editor/EditorContext;)Z" />
+      <node id="6836401089461111126" at="60,78,69,24" concept="6" />
+      <node id="6836401089461077320" at="59,0,74,0" concept="5" trace="execute#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/openapi/editor/EditorContext;)V" />
+      <scope id="6836401089461077320" at="51,38,51,38" />
+      <scope id="6836401089461077320" at="30,30,31,138" />
+      <scope id="6836401089461077320" at="35,35,36,21" />
+      <scope id="6836401089461077320" at="40,35,41,17" />
+      <scope id="6836401089461077320" at="45,37,46,105" />
+      <scope id="6836401089461077322" at="55,87,56,43" />
+      <scope id="6836401089461125151" at="62,83,63,82" />
+      <scope id="6836401089461155924" at="64,262,65,188" />
+      <scope id="6836401089461207493" at="66,16,67,20" />
+      <scope id="6836401089461077320" at="77,55,78,21" />
+      <scope id="6836401089461083493" at="83,93,84,104" />
+      <scope id="6836401089461077320" at="89,48,90,36" />
+      <scope id="6836401089461139948" at="94,55,95,43" />
+      <scope id="6836401089461077320" at="51,0,53,0" />
+      <scope id="6836401089461077320" at="30,0,33,0" />
+      <scope id="6836401089461077320" at="83,0,86,0">
+        <var name="editorContext" id="6836401089461077320" />
+        <var name="node" id="6836401089461077320" />
+      </scope>
+      <scope id="6836401089461139948" at="94,0,97,0">
+        <var name="str" id="6836401089461139948" />
+      </scope>
+      <scope id="6836401089461077320" at="34,0,38,0" />
+      <scope id="6836401089461077320" at="39,0,43,0" />
+      <scope id="6836401089461077320" at="44,99,48,30" />
+      <scope id="6836401089461077320" at="54,0,58,0">
+        <var name="editorContext" id="6836401089461077320" />
+        <var name="node" id="6836401089461077320" />
+      </scope>
+      <scope id="6836401089461077320" at="76,86,80,18" />
+      <scope id="6836401089461077320" at="88,0,92,0" />
+      <scope id="6836401089461077320" at="44,0,50,0">
+        <var name="context" id="6836401089461077320" />
+        <var name="node" id="6836401089461077320" />
+      </scope>
+      <scope id="6836401089461124853" at="61,123,68,9" />
+      <scope id="6836401089461077320" at="75,0,82,0">
+        <var name="editorContext" id="6836401089461077320" />
+        <var name="node" id="6836401089461077320" />
+      </scope>
+      <scope id="6836401089461077324" at="60,78,72,131">
+        <var name="sortedList" id="6836401089461111129" />
+      </scope>
+      <scope id="6836401089461077320" at="59,0,74,0">
+        <var name="editorContext" id="6836401089461077320" />
+        <var name="node" id="6836401089461077320" />
+      </scope>
+      <unit id="6836401089461077320" at="103,0,106,0" name="demo.library.intentions.SortLib_Intention$PROPS" />
+      <unit id="6836401089461077320" at="107,0,110,0" name="demo.library.intentions.SortLib_Intention$CONCEPTS" />
+      <unit id="6836401089461077320" at="98,0,102,0" name="demo.library.intentions.SortLib_Intention$LINKS" />
+      <unit id="6836401089461077320" at="50,0,94,0" name="demo.library.intentions.SortLib_Intention$IntentionImplementation" />
+      <unit id="6836401089461077320" at="27,0,111,0" name="demo.library.intentions.SortLib_Intention" />
+    </file>
+  </root>
+</debug-info>
+

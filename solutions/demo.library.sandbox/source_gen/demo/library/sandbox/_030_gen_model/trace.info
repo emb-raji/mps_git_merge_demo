@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root nodeRef="r:758bc485-d8b2-4b7f-b49b-96bdbd4dc7b5(demo.library.sandbox._030_gen_model)/619199584278004172">
+    <file name="FirstGenContainer.xml">
+      <unit id="619199584278004172" at="1,0,20,10" name="demo.library.sandbox._030_gen_model.FirstGenContainer" />
+    </file>
+  </root>
+  <root nodeRef="r:758bc485-d8b2-4b7f-b49b-96bdbd4dc7b5(demo.library.sandbox._030_gen_model)/619199584278004173">
+    <file name="SecondGenContainer.xml">
+      <unit id="619199584278004173" at="1,0,1,45" name="demo.library.sandbox._030_gen_model.SecondGenContainer" />
+    </file>
+  </root>
+</debug-info>
+

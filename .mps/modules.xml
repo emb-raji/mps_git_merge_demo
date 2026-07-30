@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/devkits/AdvancedLibrary/AdvancedLibrary.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/devkits/ClassicalLibrary/ClassicalLibrary.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/demo.library.checks/demo.library.checks.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/demo.library.electronic.streaming/demo.library.electronic.streaming.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/demo.library.electronic/demo.library.electronic.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/demo.library.gen/demo.library.gen.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/demo.library.jsonimporter/demo.library.jsonimporter.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/demo.library/demo.library.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/demo.persons/demo.persons.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/demo.library.jsonimporter.sandbox/demo.library.jsonimporter.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/demo.library.plugin/demo.library.plugin.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/demo.library.sandbox/demo.library.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

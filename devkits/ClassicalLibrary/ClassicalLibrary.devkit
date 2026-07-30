@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dev-kit name="ClassicalLibrary" uuid="c745f80a-4967-4984-b48a-cddbac3576d6">
+  <exported-language name="7e56f46a-41fb-493e-873e-709e3dff3d9a(demo.library)" />
+  <exported-language name="48328708-5081-4e8c-8f05-06019d4c5f64(demo.persons)" />
+</dev-kit>
+

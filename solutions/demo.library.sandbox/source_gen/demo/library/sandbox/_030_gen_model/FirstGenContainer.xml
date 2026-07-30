@@ -1,0 +1,20 @@
+<Library name="FirstGenContainer">
+  <Book>
+    <Name>FirstGenBook Ae Ö Ue ä ö ü</Name>
+    <MainAuthor>Paulo coehlo</MainAuthor>
+    <AdditionalAuthors>Catherin, John</AdditionalAuthors>
+  </Book>
+  <Book>
+    <Name>secondbook</Name>
+    <MainAuthor>JK Rowling</MainAuthor>
+    <AdditionalAuthors>Sheldon, Aelexa</AdditionalAuthors>
+  </Book>
+  <Magazine>
+    <Name>Times Magazine</Name>
+    <periodicity>MONTHLY</periodicity>
+    
+  </Magazine>
+  <CD_concept>cd1</CD_concept>
+  <DVD_concept>dvd1 Ae</DVD_concept>
+  <streamable>cd1</streamable>
+</Library>

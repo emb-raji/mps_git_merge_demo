@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="EditorAspectDescriptorImpl.java">
+      <unit at="15,0,33,0" name="demo.library.electronic.editor.EditorAspectDescriptorImpl" />
+    </file>
+  </root>
+  <root nodeRef="r:18537e85-cd5d-409f-b96d-40b28945dca9(demo.library.electronic.editor)/4856742600396693065">
+    <file name="CD_concept_Editor.java">
+      <node id="4856742600396693065" at="11,79,12,76" concept="5" />
+      <node id="4856742600396693065" at="11,0,14,0" concept="3" trace="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <scope id="4856742600396693065" at="11,79,12,76" />
+      <scope id="4856742600396693065" at="11,0,14,0">
+        <var name="editorContext" id="4856742600396693065" />
+        <var name="node" id="4856742600396693065" />
+      </scope>
+      <unit id="4856742600396693065" at="10,0,15,0" name="demo.library.electronic.editor.CD_concept_Editor" />
+    </file>
+    <file name="CD_concept_EditorBuilder_a.java">
+      <node id="4856742600396693065" at="18,90,19,19" concept="6" />
+      <node id="4856742600396693065" at="19,19,20,18" concept="1" />
+      <node id="4856742600396693065" at="25,26,26,18" concept="5" />
+      <node id="4856742600396693065" at="29,39,30,32" concept="5" />
+      <node id="4856742600396693065" at="33,43,34,120" concept="4" />
+      <node id="4856742600396693065" at="34,120,35,48" concept="1" />
+      <node id="4856742600396693065" at="35,48,36,28" concept="1" />
+      <node id="4856742600396693065" at="36,28,37,31" concept="1" />
+      <node id="4856742600396693067" at="37,31,38,50" concept="1" />
+      <node id="4856742600396750868" at="38,50,39,49" concept="1" />
+      <node id="4856742600396693065" at="39,49,40,22" concept="5" />
+      <node id="4856742600396693067" at="42,42,43,136" concept="4" />
+      <node id="4856742600396693067" at="43,136,44,22" concept="5" />
+      <node id="4856742600396750868" at="46,41,47,93" concept="4" />
+      <node id="4856742600396750868" at="47,93,48,47" concept="1" />
+      <node id="4856742600396750868" at="48,47,49,34" concept="1" />
+      <node id="4856742600396750868" at="49,34,50,22" concept="5" />
+      <node id="4856742600396693065" at="15,0,17,0" concept="2" trace="myNode" />
+      <node id="4856742600396693065" at="29,0,32,0" concept="3" trace="createCell#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="4856742600396693065" at="18,0,22,0" concept="0" trace="CD_concept_EditorBuilder_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="4856742600396693067" at="42,0,46,0" concept="3" trace="createComponent_0#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="4856742600396693065" at="23,0,28,0" concept="3" trace="getNode#()Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="4856742600396750868" at="46,0,52,0" concept="3" trace="createConstant_0#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="4856742600396693065" at="33,0,42,0" concept="3" trace="createCollection_0#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <scope id="4856742600396693065" at="25,26,26,18" />
+      <scope id="4856742600396693065" at="29,39,30,32" />
+      <scope id="4856742600396693065" at="18,90,20,18" />
+      <scope id="4856742600396693067" at="42,42,44,22">
+        <var name="editorCell" id="4856742600396693067" />
+      </scope>
+      <scope id="4856742600396693065" at="29,0,32,0" />
+      <scope id="4856742600396693065" at="18,0,22,0">
+        <var name="context" id="4856742600396693065" />
+        <var name="node" id="4856742600396693065" />
+      </scope>
+      <scope id="4856742600396693067" at="42,0,46,0" />
+      <scope id="4856742600396750868" at="46,41,50,22">
+        <var name="editorCell" id="4856742600396750868" />
+      </scope>
+      <scope id="4856742600396693065" at="23,0,28,0" />
+      <scope id="4856742600396750868" at="46,0,52,0" />
+      <scope id="4856742600396693065" at="33,43,40,22">
+        <var name="editorCell" id="4856742600396693065" />
+      </scope>
+      <scope id="4856742600396693065" at="33,0,42,0" />
+      <unit id="4856742600396693065" at="14,0,53,0" name="demo.library.electronic.editor.CD_concept_EditorBuilder_a" />
+    </file>
+  </root>
+  <root nodeRef="r:18537e85-cd5d-409f-b96d-40b28945dca9(demo.library.electronic.editor)/4856742600396693069">
+    <file name="DVD_concept_Editor.java">
+      <node id="4856742600396693069" at="11,79,12,77" concept="5" />
+      <node id="4856742600396693069" at="11,0,14,0" concept="3" trace="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <scope id="4856742600396693069" at="11,79,12,77" />
+      <scope id="4856742600396693069" at="11,0,14,0">
+        <var name="editorContext" id="4856742600396693069" />
+        <var name="node" id="4856742600396693069" />
+      </scope>
+      <unit id="4856742600396693069" at="10,0,15,0" name="demo.library.electronic.editor.DVD_concept_Editor" />
+    </file>
+    <file name="DVD_concept_EditorBuilder_a.java">
+      <node id="4856742600396693069" at="18,91,19,19" concept="6" />
+      <node id="4856742600396693069" at="19,19,20,18" concept="1" />
+      <node id="4856742600396693069" at="25,26,26,18" concept="5" />
+      <node id="4856742600396693069" at="29,39,30,32" concept="5" />
+      <node id="4856742600396693069" at="33,43,34,120" concept="4" />
+      <node id="4856742600396693069" at="34,120,35,48" concept="1" />
+      <node id="4856742600396693069" at="35,48,36,28" concept="1" />
+      <node id="4856742600396693069" at="36,28,37,31" concept="1" />
+      <node id="4856742600396693071" at="37,31,38,50" concept="1" />
+      <node id="4856742600396750865" at="38,50,39,49" concept="1" />
+      <node id="4856742600396693069" at="39,49,40,22" concept="5" />
+      <node id="4856742600396693071" at="42,42,43,136" concept="4" />
+      <node id="4856742600396693071" at="43,136,44,22" concept="5" />
+      <node id="4856742600396750865" at="46,41,47,93" concept="4" />
+      <node id="4856742600396750865" at="47,93,48,47" concept="1" />
+      <node id="4856742600396750865" at="48,47,49,34" concept="1" />
+      <node id="4856742600396750865" at="49,34,50,22" concept="5" />
+      <node id="4856742600396693069" at="15,0,17,0" concept="2" trace="myNode" />
+      <node id="4856742600396693069" at="29,0,32,0" concept="3" trace="createCell#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="4856742600396693069" at="18,0,22,0" concept="0" trace="DVD_concept_EditorBuilder_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="4856742600396693071" at="42,0,46,0" concept="3" trace="createComponent_0#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="4856742600396693069" at="23,0,28,0" concept="3" trace="getNode#()Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <node id="4856742600396750865" at="46,0,52,0" concept="3" trace="createConstant_0#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <node id="4856742600396693069" at="33,0,42,0" concept="3" trace="createCollection_0#()Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+      <scope id="4856742600396693069" at="25,26,26,18" />
+      <scope id="4856742600396693069" at="29,39,30,32" />
+      <scope id="4856742600396693069" at="18,91,20,18" />
+      <scope id="4856742600396693071" at="42,42,44,22">
+        <var name="editorCell" id="4856742600396693071" />
+      </scope>
+      <scope id="4856742600396693069" at="29,0,32,0" />
+      <scope id="4856742600396693069" at="18,0,22,0">
+        <var name="context" id="4856742600396693069" />
+        <var name="node" id="4856742600396693069" />
+      </scope>
+      <scope id="4856742600396693071" at="42,0,46,0" />
+      <scope id="4856742600396750865" at="46,41,50,22">
+        <var name="editorCell" id="4856742600396750865" />
+      </scope>
+      <scope id="4856742600396693069" at="23,0,28,0" />
+      <scope id="4856742600396750865" at="46,0,52,0" />
+      <scope id="4856742600396693069" at="33,43,40,22">
+        <var name="editorCell" id="4856742600396693069" />
+      </scope>
+      <scope id="4856742600396693069" at="33,0,42,0" />
+      <unit id="4856742600396693069" at="14,0,53,0" name="demo.library.electronic.editor.DVD_concept_EditorBuilder_a" />
+    </file>
+  </root>
+</debug-info>
+

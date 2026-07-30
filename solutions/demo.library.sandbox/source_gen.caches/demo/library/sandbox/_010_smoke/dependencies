@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <uses language="l:7e56f46a-41fb-493e-873e-709e3dff3d9a:demo.library" />
+  <uses language="l:703a8ab6-bbcd-471b-8da9-6d95b2f7038f:demo.library.electronic" />
+  <uses language="l:48328708-5081-4e8c-8f05-06019d4c5f64:demo.persons" />
+</dependenciesRoot>
+
