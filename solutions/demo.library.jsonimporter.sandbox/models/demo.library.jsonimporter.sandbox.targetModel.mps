@@ -39,7 +39,7 @@
       <property role="3PhtHB" value="1949" />
     </node>
     <node concept="1Hz6kl" id="1xYb$Gq3KKU" role="1Hz6kh">
-      <property role="TrG5h" value="National Geographic test" />
+      <property role="TrG5h" value="National Geographic Weekly" />
       <property role="1YzVXS" value="1234" />
       <property role="3PhtH_" value="4dABqAQ8Or7/BI_WEEKLY" />
     </node>
