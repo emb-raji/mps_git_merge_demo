@@ -110,6 +110,12 @@
       <property role="18R6GT" value="1900" />
       <property role="18R6GA" value="india" />
     </node>
+    <node concept="wzFVZ" id="4ibj78QMvWb" role="wzFVT">
+      <property role="TrG5h" value="test_main1" />
+    </node>
+    <node concept="wzFVZ" id="4ibj78QMvWc" role="wzFVT">
+      <property role="TrG5h" value="test_main2" />
+    </node>
   </node>
   <node concept="1HyNcq" id="5VvLD7Jt5lB">
     <property role="TrG5h" value="Lib_books_copy" />
