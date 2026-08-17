@@ -39,7 +39,7 @@
       <property role="3PhtHB" value="1949" />
     </node>
     <node concept="1Hz6kl" id="1xYb$Gq3KKU" role="1Hz6kh">
-      <property role="TrG5h" value="National Geographic" />
+      <property role="TrG5h" value="National Geographic Weekly" />
       <property role="1YzVXS" value="1234" />
       <property role="3PhtH_" value="4dABqAQ8Or7/BI_WEEKLY" />
     </node>
@@ -47,11 +47,6 @@
       <property role="TrG5h" value="Time" />
       <property role="1YzVXS" value="1234" />
       <property role="3PhtH_" value="4dABqAQ8Or8/MONTHLY" />
-    </node>
-    <node concept="1Hz6kj" id="15DRg6bfbpS" role="1Hz6kh">
-      <property role="TrG5h" value="new_book_branch_1_EDIT_branch_edit2" />
-      <property role="1YzVXS" value="9999" />
-      <property role="3PhtHB" value="1898" />
     </node>
   </node>
 </model>
